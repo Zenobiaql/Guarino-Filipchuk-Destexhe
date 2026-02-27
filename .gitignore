@@ -1,0 +1,14 @@
+MICrONS_data/
+*.pkl
+*.zip
+*.tar.gz
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+.env
+.venv/
+env/
+
+results/
